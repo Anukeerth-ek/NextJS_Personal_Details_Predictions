@@ -1,0 +1,1 @@
+# NextJS_Personal_Details_Predictions
