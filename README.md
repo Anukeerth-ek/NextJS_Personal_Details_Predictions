@@ -1,0 +1,1 @@
+# NextJS-Person_Detail_Prediction
